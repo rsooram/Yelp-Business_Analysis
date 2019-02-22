@@ -1,0 +1,454 @@
+b_name,state,city,sum(user_review_count)
+Starbucks,AZ,Peoria,10396
+Starbucks,OH,Middleburg Heights,6130
+Starbucks,OH,Rocky River,8699
+Starbucks,NV,Enterprise,11045
+Starbucks,OH,Parma,480
+Starbucks,AZ,Litchfield Park,6209
+Starbucks,OH,Northfield,431
+Starbucks,PA,Gibsonia,972
+Starbucks,NC,Indian Trail,1793
+Starbucks,WI,Madison,30071
+Starbucks,IL,Urbana,4399
+Starbucks,AZ,Gilbert,26239
+Starbucks,AZ,Surprise Crossing,598
+Starbucks,AZ,Sun City West,641
+Starbucks,WI,Sun Prairie,4675
+Starbucks,NV,North Las Vegas,51770
+Starbucks,OH,Mentor,5879
+Starbucks,NC,Huntersville,11402
+Starbucks,NC,Waxhaw,2943
+Starbucks,AZ,Mesa,52203
+Starbucks,WI,Monona,3655
+Starbucks,AZ,Fountain Hills,4006
+Starbucks,OH,Aurora,1675
+Starbucks,NV,Las Vegas,1309036
+Starbucks,OH,Brecksville,1276
+Starbucks,NC,Concord,27872
+Starbucks,OH,Strongsville,3926
+Starbucks,NC,Monroe,11962
+Starbucks,PA,Sewickley,3502
+Starbucks,PA,Murrysville,1011
+Starbucks,OH,Garfield Heights,6051
+Starbucks,OH,Lorain,1575
+Starbucks,PA,Canonsburg,5664
+Starbucks,OH,Independence,10799
+Starbucks,PA,Allison Park,1183
+Starbucks,AZ,Laveen,1390
+Starbucks,OH,Mantua,1750
+Starbucks,OH,Twinsburg,2011
+Starbucks,PA,Pittsburgh,118237
+Starbucks,OH,Fairlawn,3871
+Starbucks,AZ,Tempe,95916
+Starbucks,AZ,Scottsdale,136189
+Starbucks,AZ,Avondale,11230
+Starbucks,OH,Cleveland,89410
+Starbucks,NV,Boulder City,17087
+Starbucks,AZ,Glendale,38386
+Starbucks,AZ,Tolleson,2779
+Starbucks,AZ,Cave Creek,1405
+Starbucks,OH,Chagrin Falls,1175
+Starbucks,AZ,Buckeye,143
+Starbucks,PA,Bethel Park,4447
+Starbucks,PA,Monroeville,3787
+Starbucks,OH,Willoughby,6583
+Starbucks,PA,Coraopolis,2210
+Starbucks,AZ,Chandler,74404
+Starbucks,NC,Matthews,6023
+Starbucks,OH,Mayfield Heights,10624
+Starbucks,OH,Avon,3302
+Starbucks,OH,Brunswick,614
+Starbucks,WI,Fitchburg,5284
+Starbucks,OH,Kent,2312
+Starbucks,OH,Streetsboro,2246
+Starbucks,NC,Charlotte,468978
+Starbucks,OH,Painesville,909
+Starbucks,NC,Cornelius,3557
+Starbucks,PA,Homestead,9330
+Starbucks,AZ,Phoenix,378169
+Starbucks,OH,Medina,1881
+Starbucks,OH,Solon,2030
+Starbucks,SC,Fort Mill,18245
+Starbucks,NC,Gastonia,10619
+Starbucks,OH,Stow,808
+Starbucks,OH,Broadview Heights,5808
+Starbucks,OH,North Olmsted,8946
+Starbucks,NV,Henderson,145437
+Starbucks,AZ,Surprise,14563
+Starbucks,PA,Wexford,6827
+Starbucks,OH,Beachwood,17542
+Starbucks,OH,Westlake,13145
+Starbucks,AZ,Goodyear,17785
+Starbucks,PA,Bridgeville,3868
+Starbucks,AZ,MESA,5185
+Starbucks,NC,Pineville,31728
+Starbucks,OH,Macedonia,1176
+Starbucks,IL,Champaign,12959
+Starbucks,OH,Cuyahoga Falls,12334
+Starbucks,WI,Middleton,5899
+Starbucks,AZ,Sun City,1684
+Starbucks,OH,South Euclid,4155
+Starbucks,OH,Hudson,1622
+Starbucks,PA,North Huntingdon,2733
+Starbucks,NC,Dallas,36
+McDonald's,IN,Argos,125
+McDonald's,OH,Maple Heights,1010
+McDonald's,AZ,Chandler,25733
+McDonald's,WI,Stoughton,530
+McDonald's,SC,Lake Wylie,224
+McDonald's,AZ,Buckeye,3232
+McDonald's,WI,McFarland,512
+McDonald's,AZ,Avondale,3461
+McDonald's,PA,Brentwood,1345
+McDonald's,AZ,Tolleson,1420
+McDonald's,NC,Charlotte,188635
+McDonald's,OH,Aurora,1734
+McDonald's,PA,Canonsburg,3511
+McDonald's,PA,Pittsburgh,30925
+McDonald's,PA,Mc Murray,925
+McDonald's,WI,Verona,134
+McDonald's,OH,Chesterland,57
+McDonald's,WI,DeForest,228
+McDonald's,OH,Montrose,548
+McDonald's,IL,Champaign,5491
+McDonald's,NC,Gastonia,13398
+McDonald's,IL,Mahomet,96
+McDonald's,OH,Willowick,450
+McDonald's,PA,North Huntingdon,6663
+McDonald's,AZ,Phoenix,108030
+McDonald's,OH,University Heights,1842
+McDonald's,NC,Harrisburg,1630
+McDonald's,PA,Crafton,3237
+McDonald's,AZ,Peoria,12330
+McDonald's,WI,Monona,1887
+McDonald's,AZ,Ahwatukee,595
+McDonald's,OH,Richmond Heights,553
+McDonald's,PA,Murrysville,168
+McDonald's,WI,Fitchburg,172
+McDonald's,WI,Middleton,1645
+McDonald's,OH,Rocky River,181
+McDonald's,PA,Monongahela,493
+McDonald's,NY,Champlain,4723
+McDonald's,OH,Amherst,427
+McDonald's,WI,Sun Prairie,2861
+McDonald's,OH,Avon Lake,558
+McDonald's,OH,North Ridgeville,1065
+McDonald's,PA,Bridgeville,2235
+McDonald's,OH,Willoughby,77
+McDonald's,AZ,Tempe,28846
+McDonald's,OH,South Euclid,270
+McDonald's,OH,Solon,104
+McDonald's,OH,Euclid,458
+McDonald's,PA,Wilkinsburg,1411
+McDonald's,NC,Huntersville,5150
+McDonald's,IL,Oakwood,763
+McDonald's,PA,West Mifflin,369
+McDonald's,OH,Brook Park,391
+McDonald's,OH,Concord Township,1556
+McDonald's,NC,Kannapolis,24568
+McDonald's,AZ,Fountain Hills,4105
+McDonald's,PA,Castle Shannon,417
+McDonald's,OH,Berea,1120
+McDonald's,OH,Parma,3038
+McDonald's,PA,Moon Township,124
+McDonald's,PA,Bethel Park,11
+McDonald's,NC,Dallas,265
+McDonald's,NV,Enterprise,4511
+McDonald's,OH,Brecksville,4730
+McDonald's,OH,Macedonia,799
+McDonald's,OH,Woodmere,3945
+McDonald's,AZ,Anthem,2137
+McDonald's,NC,"Davidson, Nc",2421
+McDonald's,OH,Stow,1518
+McDonald's,PA,Homestead,1945
+McDonald's,OH,Mantua,3416
+McDonald's,PA,Duquesne,902
+McDonald's,IL,Tuscola,590
+McDonald's,NV,Henderson,35447
+McDonald's,OH,Northfield,470
+McDonald's,OH,Bainbridge,924
+McDonald's,OH,Cuyahoga Falls,1724
+McDonald's,AZ,Mesa,23950
+McDonald's,WI,Mount Horeb,61
+McDonald's,PA,Monroeville,1311
+McDonald's,OH,Strongsville,1792
+McDonald's,OH,Westlake,1438
+McDonald's,OH,Fairview Park,174
+McDonald's,PA,Glenshaw,161
+McDonald's,PA,Wexford,122
+McDonald's,OH,Mentor,2277
+McDonald's,OH,East Cleveland,973
+McDonald's,OH,Hudson,1304
+McDonald's,NC,Belmont,3408
+McDonald's,OH,North Olmsted,344
+McDonald's,OH,Streetsboro,1360
+McDonald's,PA,Mt. Oliver Boro,1082
+McDonald's,AZ,Goodyear,12096
+McDonald's,PA,Heidelberg,78
+McDonald's,OH,Munroe Falls,503
+McDonald's,OH,Brunswick,1024
+McDonald's,IN,Madison,155
+McDonald's,OH,Richfield,1277
+McDonald's,WI,Cottage Grove,60
+McDonald's,NC,Wesley Chapel,10670
+McDonald's,NV,Las Vegas,422226
+McDonald's,NC,Indian Trail,1296
+McDonald's,OH,Elyria,2512
+McDonald's,OH,North Royalton,363
+McDonald's,OH,Medina,2224
+McDonald's,OH,Warrensville Heights,1618
+McDonald's,WI,Oregon,601
+McDonald's,WI,Waunakee,166
+McDonald's,NV,North Las Vegas,16341
+McDonald's,PA,Oakdale,201
+McDonald's,PA,Gibsonia,239
+McDonald's,OH,Garfield Heights,142
+McDonald's,IL,Rantoul,1316
+McDonald's,OH,Lorain,492
+McDonald's,OH,Mayfield Heights,1290
+McDonald's,OH,Grafton,27
+McDonald's,AZ,El Mirage,143
+McDonald's,AZ,Litchfield Park,3070
+McDonald's,PA,Hampton Township,140
+McDonald's,NC,Matthews,6490
+McDonald's,PA,Carnegie,212
+McDonald's,OH,Tallmadge,941
+McDonald's,WI,Madison,8091
+McDonald's,PA,Lower Burrell,797
+McDonald's,PA,McKeesport,301
+McDonald's,AZ,Sun City,1941
+McDonald's,SC,Fort Mill,14965
+McDonald's,AZ,MESA,4262
+McDonald's,NC,Mt Holly,649
+McDonald's,IL,Monticello,66
+McDonald's,NC,Cornelius,1293
+McDonald's,NV,Boulder City,3757
+McDonald's,AZ,Glendale,18055
+McDonald's,OH,Lakewood,2280
+McDonald's,PA,Coraopolis,614
+McDonald's,OH,Independence,7509
+McDonald's,OH,Avon,1294
+McDonald's,PA,Hermitage Twp,197
+McDonald's,WI,Windsor,453
+McDonald's,OH,Twinsburg,613
+McDonald's,AZ,Sun Lakes,2817
+McDonald's,PA,North Versailles,2258
+McDonald's,PA,Frazer,1092
+McDonald's,NC,Stallings,78
+McDonald's,NC,Monroe,75
+McDonald's,OH,Bedford Heights,998
+McDonald's,NC,Waxhaw,1051
+McDonald's,NC,Concord,13185
+McDonald's,OH,Willoughby Hills,22
+McDonald's,OH,Cleveland,17806
+McDonald's,OH,Kent,2127
+McDonald's,IL,Urbana,1239
+McDonald's,AZ,Surprise,16332
+McDonald's,OH,Middleburg Heights,1798
+McDonald's,AZ,Gilbert,14334
+McDonald's,PA,Penn Hills,121
+McDonald's,OH,Parma Heights,1166
+McDonald's,NC,Mint Hill,3740
+McDonald's,OH,Brooklyn,688
+McDonald's,AZ,Scottsdale,57165
+McDonald's,OH,Painesville,391
+McDonald's,OH,Oakwood Village,322
+Hash House A Go Go,NV,Henderson,122768
+Hash House A Go Go,NV,Las Vegas,1388864
+Chipotle Mexican Grill,AZ,Mesa,19622
+Chipotle Mexican Grill,AZ,Peoria,10502
+Chipotle Mexican Grill,NV,Henderson,30833
+Chipotle Mexican Grill,OH,Brooklyn,3969
+Chipotle Mexican Grill,NC,Charlotte,100657
+Chipotle Mexican Grill,OH,Cuyahoga Falls,2234
+Chipotle Mexican Grill,OH,Elyria,296
+Chipotle Mexican Grill,OH,Cleveland,14795
+Chipotle Mexican Grill,NV,Las Vegas,208989
+Chipotle Mexican Grill,AZ,Tempe,32801
+Chipotle Mexican Grill,OH,Cleveland Heights,10878
+Chipotle Mexican Grill,NV,North Las Vegas,12525
+Chipotle Mexican Grill,OH,Amherst,3170
+Chipotle Mexican Grill,OH,Kent,1244
+Chipotle Mexican Grill,PA,Bridgeville,1433
+Chipotle Mexican Grill,AZ,Gilbert,21949
+Chipotle Mexican Grill,PA,East Liberty,7833
+Chipotle Mexican Grill,AZ,Buckeye,5313
+Chipotle Mexican Grill,OH,Warrensville Heights,3666
+Chipotle Mexican Grill,OH,Medina,1207
+Chipotle Mexican Grill,AZ,MESA,3941
+Chipotle Mexican Grill,OH,Mentor,2983
+Chipotle Mexican Grill,AZ,Surprise,9526
+Chipotle Mexican Grill,WI,Madison,13428
+Chipotle Mexican Grill,NC,Pineville,2098
+Chipotle Mexican Grill,OH,Willoughby,3083
+Chipotle Mexican Grill,AZ,Avondale,6454
+Chipotle Mexican Grill,NC,Gastonia,1107
+Chipotle Mexican Grill,NC,Huntersville,4297
+Chipotle Mexican Grill,PA,Pittsburgh,50925
+Chipotle Mexican Grill,AZ,Goodyear,10395
+Chipotle Mexican Grill,OH,Lakewood,5512
+Chipotle Mexican Grill,AZ,Chandler,33710
+Chipotle Mexican Grill,NC,Concord,2106
+Chipotle Mexican Grill,OH,Independence,4517
+Chipotle Mexican Grill,OH,Parma,2555
+Chipotle Mexican Grill,OH,Avon,2751
+Chipotle Mexican Grill,OH,Middleburg Heights,1670
+Chipotle Mexican Grill,OH,Brunswick,1910
+Chipotle Mexican Grill,OH,Highland Heights,995
+Chipotle Mexican Grill,PA,Wexford,775
+Chipotle Mexican Grill,OH,Stow,267
+Chipotle Mexican Grill,OH,Westlake,2021
+Chipotle Mexican Grill,OH,North Olmsted,1941
+Chipotle Mexican Grill,OH,North Ridgeville,1003
+Chipotle Mexican Grill,AZ,Laveen,1781
+Chipotle Mexican Grill,AZ,Glendale,24186
+Chipotle Mexican Grill,OH,Garfield Heights,557
+Chipotle Mexican Grill,NC,Matthews,4858
+Chipotle Mexican Grill,OH,Lyndhurst,3308
+Chipotle Mexican Grill,OH,Strongsville,2689
+Chipotle Mexican Grill,PA,Monroeville,3178
+Chipotle Mexican Grill,AZ,Scottsdale,68780
+Chipotle Mexican Grill,OH,Solon,4569
+Chipotle Mexican Grill,OH,Mayfield Heights,5109
+Chipotle Mexican Grill,OH,Streetsboro,2136
+Chipotle Mexican Grill,IL,Champaign,13095
+Chipotle Mexican Grill,OH,Brecksville,757
+Chipotle Mexican Grill,OH,Hudson,973
+Chipotle Mexican Grill,OH,Macedonia,3177
+Chipotle Mexican Grill,OH,South Euclid,3290
+Chipotle Mexican Grill,OH,Twinsburg,2077
+Chipotle Mexican Grill,WI,Shorewood Hills,1870
+Chipotle Mexican Grill,OH,Euclid,56
+Chipotle Mexican Grill,OH,Fairview Park,2861
+Chipotle Mexican Grill,AZ,Phoenix,103957
+Chipotle Mexican Grill,PA,Canonsburg,1142
+Chipotle Mexican Grill,OH,Woodmere,462
+Mon Ami Gabi,NV,Las Vegas,1260297
+Bacchanal Buffet,NV,Las Vegas,1260353
+Buffalo Wild Wings,OH,Warrensville Heights,6437
+Buffalo Wild Wings,NV,North Las Vegas,15650
+Buffalo Wild Wings,AZ,Phoenix,46270
+Buffalo Wild Wings,AZ,Chandler,18285
+Buffalo Wild Wings,OH,Cleveland,5687
+Buffalo Wild Wings,OH,Brooklyn,2409
+Buffalo Wild Wings,NV,N. Las Vegas,16135
+Buffalo Wild Wings,WI,Madison,11364
+Buffalo Wild Wings,AZ,Mesa,13112
+Buffalo Wild Wings,AZ,Scottsdale,32521
+Buffalo Wild Wings,OH,Avon Lake,1506
+Buffalo Wild Wings,OH,Lyndhurst,5427
+Buffalo Wild Wings,AZ,Tempe,27725
+Buffalo Wild Wings,OH,Medina,3406
+Buffalo Wild Wings,PA,Gibsonia,1748
+Buffalo Wild Wings,PA,Pittsburgh,5812
+Buffalo Wild Wings,NV,Las Vegas,182536
+Buffalo Wild Wings,WI,Monona,5889
+Buffalo Wild Wings,OH,Strongsville,5583
+Buffalo Wild Wings,OH,Kent,2526
+Buffalo Wild Wings,IL,Savoy,10825
+Buffalo Wild Wings,OH,Mentor,2480
+Buffalo Wild Wings,NC,Concord,4345
+Buffalo Wild Wings,AZ,Goodyear,14168
+Buffalo Wild Wings,IL,Champaign,2221
+Buffalo Wild Wings,OH,Elyria,1515
+Buffalo Wild Wings,OH,Streetsboro,1778
+Buffalo Wild Wings,PA,West Mifflin,2668
+Buffalo Wild Wings,AZ,Glendale,18227
+Buffalo Wild Wings,PA,Wilkins Township,6721
+Buffalo Wild Wings,OH,Fairview Park,4307
+Buffalo Wild Wings,NC,Gastonia,3254
+Buffalo Wild Wings,OH,Aurora,2031
+Buffalo Wild Wings,NC,Charlotte,48343
+Buffalo Wild Wings,NC,Monroe,1780
+Buffalo Wild Wings,NV,Henderson,67646
+Buffalo Wild Wings,AZ,Surprise,13592
+Buffalo Wild Wings,OH,Willoughby,1661
+Buffalo Wild Wings,AZ,Gilbert,29926
+Buffalo Wild Wings,WI,Fitchburg,6110
+Wicked Spoon,NV,Las Vegas,1246400
+In-N-Out Burger,NV,Henderson,39882
+In-N-Out Burger,NV,Las Vegas,722774
+In-N-Out Burger,AZ,Mesa,36856
+In-N-Out Burger,NV,North Las Vegas,37468
+In-N-Out Burger,AZ,Gilbert,13555
+In-N-Out Burger,AZ,Tempe,64804
+In-N-Out Burger,AZ,Scottsdale,49877
+In-N-Out Burger,AZ,Avondale,25770
+In-N-Out Burger,AZ,Chandler,60866
+In-N-Out Burger,AZ,Phoenix,141056
+In-N-Out Burger,AZ,Peoria,24555
+In-N-Out Burger,AZ,Surprise,1854
+Panera Bread,WI,Madison,20007
+Panera Bread,AZ,Goodyear,1370
+Panera Bread,OH,Parma,990
+Panera Bread,AZ,Phoenix,68542
+Panera Bread,AZ,Glendale,6203
+Panera Bread,OH,Kent,403
+Panera Bread,OH,North Olmsted,1087
+Panera Bread,AZ,Peoria,3822
+Panera Bread,PA,Allison Park,1605
+Panera Bread,PA,McKees Rocks,1177
+Panera Bread,PA,Ross Township,2595
+Panera Bread,OH,Lakewood,5267
+Panera Bread,AZ,Scottsdale,13749
+Panera Bread,OH,Stow,977
+Panera Bread,OH,Cuyahoga Falls,1178
+Panera Bread,NC,Charlotte,166123
+Panera Bread,OH,Warrensville Heights,3485
+Panera Bread,OH,Northfield,1309
+Panera Bread,OH,Avon,2008
+Panera Bread,PA,North Huntingdon,4025
+Panera Bread,AZ,Chandler,31254
+Panera Bread,NC,Concord,3900
+Panera Bread,WI,Fitchburg,5042
+Panera Bread,OH,Brecksville,1710
+Panera Bread,OH,Highland Heights,10260
+Panera Bread,PA,Wexford,1831
+Panera Bread,PA,Bridgeville,3440
+Panera Bread,OH,Medina,1239
+Panera Bread,OH,Sheffield Village,157
+Panera Bread,OH,North Ridgeville,3584
+Panera Bread,PA,Oakmont,914
+Panera Bread,AZ,Mesa,8747
+Panera Bread,OH,Amherst,5556
+Panera Bread,NV,Henderson,78190
+Panera Bread,PA,Monroeville,8593
+Panera Bread,AZ,Surprise,2936
+Panera Bread,SC,Fort Mill,2869
+Panera Bread,OH,Westlake,1966
+Panera Bread,NC,Gastonia,5037
+Panera Bread,OH,Seven Hills,1663
+Panera Bread,OH,Cleveland,3403
+Panera Bread,OH,Brooklyn,3204
+Panera Bread,AZ,Avondale,6987
+Panera Bread,OH,Independence,5426
+Panera Bread,PA,Pittsburgh,54081
+Panera Bread,OH,Broadview Heights,2638
+Panera Bread,PA,West Homestead,10202
+Panera Bread,OH,Fairlawn,1369
+Panera Bread,OH,Middleburg Heights,1576
+Panera Bread,PA,Mount Lebanon,4014
+Panera Bread,AZ,Gilbert,3323
+Panera Bread,NC,Indian Trail,3530
+Panera Bread,OH,Brunswick,1035
+Panera Bread,OH,Mayfield Heights,2808
+Panera Bread,OH,Twinsburg,2445
+Panera Bread,OH,Willoughby,541
+Panera Bread,OH,Bainbridge Township,1917
+Panera Bread,PA,Pleasant Hills,1635
+Panera Bread,OH,Mentor,3125
+Panera Bread,OH,Strongsville,2471
+Panera Bread,NV,Las Vegas,109369
+Panera Bread,PA,Murrysville,616
+Panera Bread,OH,Solon,2526
+Panera Bread,PA,Bethel Park,2060
+Panera Bread,OH,South Euclid,3893
+Panera Bread,PA,McMurray,3044
+Panera Bread,NC,Huntersville,5401
+Panera Bread,OH,Rocky River,1411
+Panera Bread,OH,Elyria,63
+Panera Bread,OH,Hudson,910
+Panera Bread,NC,Matthews,8243
+Panera Bread,IL,Champaign,11728
+Panera Bread,OH,Shaker Heights,799
+Panera Bread,AZ,Tempe,12784
